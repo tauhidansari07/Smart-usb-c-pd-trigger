@@ -23,3 +23,5 @@ Unlike basic decoy boards, this design features an active closed-loop feedback m
 
 - `/firmware` : C source code matching standard peripheral libraries (MounRiver Studio / PlatformIO).
 - `/hardware` : KiCad schematic and PCB layout design files.
+
+- ![3D Render of the PCB](PD-TRIGGER-RND.png)
